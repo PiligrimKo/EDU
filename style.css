@@ -1,0 +1,68 @@
+.container, .mess_container{
+    width: 1200px;
+    margin: auto;
+    border: 1px solid black;
+    
+}
+.dropbox{
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.dropbox_active{
+    height: 200px;
+    background-color: brown;
+    transition: 2s ;
+}
+.btn{
+    width: 300px;
+    height: 30px;
+    border: 1px solid black;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+    padding-top: 5px;
+}
+.form{
+    height: 300px;
+    width: 300px;
+    border: 1px solid black;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+    padding-top: 5px;
+}
+.buttn{
+    display: inline-block;
+    width: 100px;
+    height: 20px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 1px solid black;
+}
+.buttn:hover{
+    cursor: pointer;
+}
+.textinn{
+    width: 250px;
+    height: 200px;
+}
+.textout{
+    width: 300px;
+    border: 1px solid black;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+    padding-top: 5px;
+}
